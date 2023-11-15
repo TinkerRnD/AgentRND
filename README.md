@@ -1,4 +1,4 @@
-# 🌟 AutoGPT: the heart of the open-source agent ecosystem
+# 🌟 AgentRND: the heart of the open-source agent ecosystem (AutoGPT variant)
 
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt) [![GitHub Repo stars](https://img.shields.io/github/stars/TinkerRnD/AutoGPT?style=social)](https://github.com/TinkerRnD/AgentRND) [![Twitter Follow](https://img.shields.io/twitter/follow/tinkerrnd?style=social)](https://twitter.com/TinkerRnD) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
